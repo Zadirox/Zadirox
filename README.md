@@ -2,7 +2,25 @@
 
 ## My name is Dmitry and I am a beginner QA Engineer. Here I share web testing portfolio items developed through courses and personal projects. You are welcome to check out my resume.
 
-Latest Projects
+<table>
+  <tr>
+    <td>
+
+### 🧩 A Few Quick Facts
+
+- 🧪 QA Engineer focused on web & mobile testing  
+- 🚀 Improving API, SQL & automation skills  
+- 🧩 Tools: Jira, TestRail, Postman, DevTools  
+- 📊 SQL (SELECT, JOIN, GROUP BY)  
+- 🔍 Bug reporting & regression testing  
+- 🎮 WoW & gym enjoyer  
+
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/YRuFixSNWFVcXaxpmX/giphy.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ### 🛠 Languages and Tools
 
