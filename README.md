@@ -1,6 +1,15 @@
 ![Header](https://github.com/Zadirox/Zadirox/blob/main/assets/banner.png)
 
-## My name is Dmitry and I am a beginner QA Engineer. Here I share web testing portfolio items developed through courses and personal projects. You are welcome to check out my resume.
+<h3 align="center">QA Engineer | Web & Mobile Testing</h3>
+
+<p align="center">
+  🧪 Manual Testing • 🔌 API Testing • 🗄 SQL • 📱 Mobile Testing
+</p>
+
+<p align="center">
+  I’m a beginner QA Engineer focused on delivering stable and high-quality products.<br/>
+  Currently improving my skills in automation and backend testing.
+</p>
 
 <table>
   <tr>
