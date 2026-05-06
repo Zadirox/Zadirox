@@ -11,7 +11,7 @@
   Currently improving my skills in automation and backend testing.
 </p>
 
-<table>
+<table align="center">
   <tr>
     <td>
 
