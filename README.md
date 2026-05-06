@@ -17,4 +17,6 @@ Latest Projects
 ![Swagger](https://img.shields.io/badge/-Swagger-0d1117?style=for-the-badge&logo=swagger&logoColor=85EA2D)
 ![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-0d1117?style=for-the-badge&logo=icloud&logoColor=F44336)
 
-Follow me
+### 📫 Follow Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/zadirox)
