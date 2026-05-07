@@ -34,7 +34,7 @@
 <h3 align="center">📄 My CV</h3>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1I2SkknKPkUdOfHB8hLbFX4ir3tN4h8k-/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1eROmmDvB0qyGIy7w3GlLjYonkwzvZCzD/view?usp=sharing">
     <img src="https://img.shields.io/badge/-View_Resume-0d1117?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
